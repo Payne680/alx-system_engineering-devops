@@ -1,1 +1,1 @@
-Directory for shell redirection
+Directory for shell redirection project
